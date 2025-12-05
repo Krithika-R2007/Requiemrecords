@@ -1,6 +1,6 @@
-# Requiemrecords
+# Requiem records
 
-
+##Important: the voice recording only works on chrome or edge please see through it 
 # 🎃 Requiem Records
 
 A spooky voice recording web app that transforms your memories into gothic horror stories.
